@@ -1,4 +1,4 @@
-# classification_with_coarse_fine_labels
+# classification-with-coarse-fine-labels
 Code accompanying the paper [Weakly Supervised Image Classification with Coarse and Fine Labels](http://www.cs.umanitoba.ca/~ywang/papers/crv17.pdf). 
 
 ### Usage
